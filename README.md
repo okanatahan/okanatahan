@@ -26,7 +26,7 @@
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okanatahan&show_icons=true&hide_border=true&theme=dark&title_color=FF0000&locale=en&layout=compact" alt="okanatahan" /> </p>
+<p align="left"> <src="https://github-readme-stats.vercel.app/api/top-langs?username=okanatahan&show_icons=true&hide_border=true&theme=dark&title_color=FF0000&locale=en&layout=compact" alt="okanatahan" /> </p>
 <a href="http://www.github.com/okanatahan"><img src="https://github-readme-stats.vercel.app/api?username=okanatahan&show_icons=true&hide=&count_private=true&theme=dark&title_color=FF0000&text_color=13257C&icon_color=FF0000&hide_border=true&show_icons=true" alt="Okan's GitHub Stats" /> </a> 
 <br>
 <br>
