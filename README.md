@@ -26,4 +26,4 @@ Hi! Welcome to my profile.
 
 ### Stats
 
-<a href="http://www.github.com/okid0ki"><img src="https://github-readme-stats.vercel.app/api?username=okid0ki&show_icons=true&hide=&count_private=true&title_color=FF0000&text_color=000000&icon_color=FF0000&bg_color=ffffff&hide_border=true&show_icons=true" alt="okid0ki's GitHub Stats" /></a>
+<a href="http://www.github.com/okanatahan"><img src="https://github-readme-stats.vercel.app/api?username=okanatahan&show_icons=true&hide=&count_private=true&theme=dark&title_color=FF0000&text_color=13257C&icon_color=FF0000&hide_border=true&show_icons=true" alt="Okan's GitHub Stats" /></a>
