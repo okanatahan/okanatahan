@@ -2,7 +2,7 @@ Hi! Welcome to my profile.
 =======================
 
 *   ✉️  You can contact me at [okan_atahan@hotmail.com](mailto:okan_atahan@hotmail.com)
-*   🧠  I'm learning C++ and Python. Also, interested in Front-End. 
+*   🧠  I'm currently learning C++ and Python. Also, interested in Front-End. 
 
 ![Grogu](https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif)
 
