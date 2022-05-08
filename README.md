@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! Welcome to my profile. </h1>
 
-<div align="center"><img src="https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif" width="350" height="350"/> </div>
+<div align="center"><img src="https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif" width="450" height="450"/> </div>
 
 - ✉️  You can contact me at [okan_atahan@hotmail.com](mailto:okan_atahan@hotmail.com)
 
