@@ -3,8 +3,9 @@
 <div align="center"><img src="https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif" width="500" height="500"/> </div>
 <br>
 
-*   ✉️  You can contact me at [okan_atahan@hotmail.com](mailto:okan_atahan@hotmail.com)
-*   🧠  I'm currently learning C++ and Python. Also, interested in Front-End. 
+-   ✉️  You can contact me at [okan_atahan@hotmail.com](mailto:okan_atahan@hotmail.com)
+  
+-   🧠  I'm currently learning C++ and Python. Also, interested in Front-End. 
 
 ### Skills
 
