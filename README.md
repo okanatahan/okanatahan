@@ -6,7 +6,7 @@
 
 - ✉️  You can contact me at [okan_atahan@hotmail.com](mailto:okan_atahan@hotmail.com)
 
-- 🧠  I'm currently learning C++ and Python. Also, interested in Front-End. 
+- 🧠  I'm currently learning C++, C, and Python.
 
 ### Skills
 
