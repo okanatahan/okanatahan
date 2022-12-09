@@ -17,6 +17,7 @@
 &nbsp&nbsp
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10388824/167305922-f0fd386f-2914-4e5d-9eab-faf2d1150b67.svg" width="36" height="36" alt="Python" /></a>
 </p>
+
 ### Socials
 
 <p align="left"> <a href="https://github.com/okid0ki" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10388824/167306694-cd1385b6-b823-497e-aa15-454e4cbbcb3b.svg" width="32" height="32" /></a> &nbsp&nbsp
