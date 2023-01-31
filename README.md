@@ -23,8 +23,7 @@
 ### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okanatahan&show_icons=true&hide_border=true&theme=dark&title_color=FF0000&locale=en&layout=compact" alt="okanatahan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=okanatahan&show_icons=true&hide=&count_private=true&theme=dark&title_color=FF0000&text_color=13257C&icon_color=FF0000&hide_border=true&show_icons=true" alt="Okan's GitHub Stats" width="50%" /></p> &nbsp&nbsp
-<br>
-### Support Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=okanatahan&show_icons=true&hide=&count_private=true&theme=dark&title_color=FF0000&text_color=13257C&icon_color=FF0000&hide_border=true&show_icons=true" alt="Okan's GitHub Stats" width="50%" /></p>
+<br> ### Support Me
 
 <a href="https://www.buymeacoffee.com/okanatahan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
