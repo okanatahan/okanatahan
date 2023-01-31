@@ -1,4 +1,4 @@
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Who-am-i</h2>
 <p align="center">
   <samp>Software Engineering Student</samp>
 </p>
