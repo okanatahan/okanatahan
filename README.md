@@ -1,7 +1,5 @@
 <h2 align="center"> Hello There 👋 </h1>
 
-- 🧠  I'm currently learning Python.
-
 ### Skills
 
 <p align="left"> 
