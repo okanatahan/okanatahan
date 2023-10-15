@@ -27,7 +27,9 @@
 <p align="left"> 
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.svg" width="36" height="36" alt="C" /></a>
 &nbsp&nbsp
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10388824/167305922-f0fd386f-2914-4e5d-9eab-faf2d1150b67.svg" width="36" height="36" alt="Python" /></a></p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10388824/167305922-f0fd386f-2914-4e5d-9eab-faf2d1150b67.svg" width="36" height="36" alt="Python" /></a>
+&nbsp&nbsp
+<a href="www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/afa05625904238dbcd297b5384c65e0a09e439ac/public/icons/skills/java-dark.svg" width="36" height="36" alt="Java" /></a></p>
 
 ### Stats
 
